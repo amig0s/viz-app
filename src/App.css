@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
+}
+
+.blink::after {
+  content: "";
+  width: 3px;
+  height: 20px;
+  background: #ffffff;
+  display: inline-block;
+  animation: cursor-blink 1s steps(2) infinite;
+}
