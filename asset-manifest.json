@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "https://viziru.com/static/css/main.24d59358.css",
-    "main.js": "https://viziru.com/static/js/main.ce1ce6b4.js",
-    "index.html": "https://viziru.com/index.html",
-    "main.24d59358.css.map": "https://viziru.com/static/css/main.24d59358.css.map",
-    "main.ce1ce6b4.js.map": "https://viziru.com/static/js/main.ce1ce6b4.js.map"
+    "main.css": "/static/css/main.24d59358.css",
+    "main.js": "/static/js/main.ce1ce6b4.js",
+    "index.html": "/index.html",
+    "main.24d59358.css.map": "/static/css/main.24d59358.css.map",
+    "main.ce1ce6b4.js.map": "/static/js/main.ce1ce6b4.js.map"
   },
   "entrypoints": [
     "static/css/main.24d59358.css",
